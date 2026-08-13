@@ -16,7 +16,7 @@
 Contributing to open-source software is one of the best ways for developers to gain real-world experience, build their portfolios, and collaborate with professional developers.
 
 However, **making the first meaningful contribution is difficult**.
-
+ 
 Beginners often struggle with:
 
 * Finding repositories suitable for their skill level
