@@ -128,7 +128,7 @@ Analyze a developer's GitHub profile to understand:
 * Contribution experience
 * Technology preferences
 * Open-source experience
-
+ 
 The system can use this information to estimate the contributor's experience level.
 
 ---
