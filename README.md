@@ -38,7 +38,7 @@ Existing AI coding assistants can answer programming questions, but they general
 ```text
 Discover → Understand → Implement → Review → Contribute → Learn
 ```
-
+   
 The goal is simple:
 
 > **Make open-source contribution accessible to every developer, especially first-time contributors.**
