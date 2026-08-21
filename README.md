@@ -63,7 +63,7 @@ A developer may find a promising GitHub issue but still spend hours trying to un
 This creates a significant **entry barrier**.
 
 As a result, many potential contributors abandon their first contribution attempt before submitting a Pull Request.
-
+ 
 ---
 
 # 🚀 Proposed Solution
