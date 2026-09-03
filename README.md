@@ -1,7 +1,7 @@
 # 🚀 OpenSourceHub AI
 
 ### Breaking the Entry Barrier to Open Source Contributions
-
+ 
 > **An AI-powered open-source contribution platform that guides developers from finding the right issue to creating a high-quality Pull Request.**
 
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange)](https://github.com/)
